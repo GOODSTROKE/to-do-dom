@@ -1,0 +1,23 @@
+    
+    
+    #add {
+    background-color: rgb(90, 145, 234);
+    color: black;
+    border-color: black;
+    }
+    
+    #removeCompleted {
+        background-color: rgb(225, 225, 225);
+        color: black;
+    
+    }
+    
+    #removeAll {
+        color: black;
+        background-color: rgb(255, 25, 25);
+        
+    }
+    
+    li {
+        transition: 5s;
+    } 
